@@ -4,7 +4,7 @@ ComfyUI-Img2Img-Turbo
 
 ### base workflow
 
-https://github.com/chaojie/ComfyUI-Img2Img-Turbo/blob/main/wf.png
+<img src="wf.png" raw=true>
 
 https://github.com/chaojie/ComfyUI-Img2Img-Turbo/blob/main/wf.json
 
