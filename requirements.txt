@@ -1,1 +1,4 @@
 peft
+diffusers==0.25.1
+transformers==4.35.2
+xformers>=0.0.20
