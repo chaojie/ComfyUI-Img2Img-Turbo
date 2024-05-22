@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-img2img-turbo"
+description = "ComfyUI Img2Img-Turbo"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["peft", "diffusers==0.25.1", "transformers==4.35.2", "xformers>=0.0.20"]
+
+[project.urls]
+Repository = "https://github.com/chaojie/ComfyUI-Img2Img-Turbo"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Img2Img-Turbo"
+Icon = ""
